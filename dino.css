@@ -1,0 +1,45 @@
+body { 
+      margin: 0; 
+      padding: 0; 
+      box-sizing: border-box;
+      position: static;
+      background-color: black;
+  }
+
+  .path{
+      position: absolute;
+      width: 100%;
+      bottom:50%;
+      top: 40%;
+  }
+
+#gamer{
+    width: 140px;
+    position : relative;
+    left: 40px;
+    bottom: 10px;
+}
+#fireBall{
+    width: 60px;
+    position: relative;
+    top:40px;
+    float: right;
+}
+
+#scoreBoard{
+    float: left;
+    color:white;
+}
+
+#move{
+    width:100%;
+    border-color:white;
+    border-style: dashed;
+}
+    
+    
+
+
+
+
+
